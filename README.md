@@ -1,4 +1,4 @@
-# Predicting House Prices in King County: Evaluating the Impact of Home Features and Renovations using Comprehensive Analysis of multiple linear regression.
+# Predicting House Prices in King County:  Comprehensive Analysis of multiple linear regression.
 ## INTRODUCTION
 The real estate market in King County is dynamic and competitive, with various factors influencing property values. Homeowners and real estate agencies are particularly interested in understanding how different features of a house, as well as renovations, can impact its market value. Accurate and data-driven insights into these factors can significantly enhance decision-making processes for buying, selling, and renovating homes.
 
