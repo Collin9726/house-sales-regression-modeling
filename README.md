@@ -27,16 +27,16 @@ Provide the real estate company with data-driven insights so that it may provide
 
 ## DATA ANALYSIS
 We will be using using data from the file kc_house_data.csv which contains the prices of houses in King County alongside their features such as year built, year renovated, number of bedrooms and bathrooms, and many more. The full listing of columns and descriptive statistics of the data is shown below.
-![alt text](image.png)
+![alt text](image-3.png)
 
 An R-squared value of 0.6515 means that approximately 65.15% of the variance in the dependent variable  is explained by the independent variables included in the regression model. This indicates a moderately strong relationship between the predictors and the target variable. However, it also suggests that there is room for improvement, as a significant portion of the variance remains unexplained
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 The heat map will visually show the strength and direction of the correlation between each pair of features:
 High Positive Correlation (close to 1): Indicates that as one feature increases, the other feature tends to increase as well.
 High Negative Correlation (close to -1): Indicates that as one feature increases, the other feature tends to decrease.
 Low Correlation (close to 0): Indicates little to no linear relationship between the features.
-![alt text](image-2.png)
+![alt text](image-1.png)
 
 By including the target variable price, you can observe how each feature relates to the house prices.
 Scatter plots involving price can highlight which features have strong linear or non-linear correlations with the target variable. 
